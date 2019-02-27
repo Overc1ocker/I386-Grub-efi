@@ -1,0 +1,1 @@
+Add a manjaro 64 bit iso to this folder, then rename it "boot.iso" You may remove this file as it is not needed!

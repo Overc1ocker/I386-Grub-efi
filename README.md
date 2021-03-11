@@ -13,7 +13,7 @@ What you need to boot a 64 bit ISO.
 
 -Some knowledge of the grub commandline, including how to boot .iso files using grub. 
 
--If you are using manjaro, just follow this guide https://forum.manjaro.org/t/tutorial-install-manjaro-on-a-32-bit-efi-64-bit-cpu-system/77361
+-If you are using manjaro, just follow this guide https://archived.forum.manjaro.org/t/tutorial-install-manjaro-on-a-32-bit-efi-64-bit-cpu-system/77361
 
 The bootia32.efi, and i386-efi folders come from the Manjaro xfce 18.02 iso, and Jonathan Wells.
 

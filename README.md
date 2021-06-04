@@ -18,3 +18,5 @@ What you need to boot a 64 bit ISO.
 The bootia32.efi, and i386-efi folders come from the Manjaro xfce 18.02 iso, and Jonathan Wells.
 
 If you are using ubuntu, use http://www.jfwhome.com/2016/01/04/latest-steps-to-install-ubuntu-on-the-asus-t100ta/ as a guide
+
+The grub files provided are out of date. I'd reccomend recompiling a new version via this guide! https://github.com/jfwells/linux-asus-t100ta/tree/master/boot
